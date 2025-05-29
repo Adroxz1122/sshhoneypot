@@ -4,5 +4,3 @@ a python SSH honeypot that can run on any port and baits an attacker to try to l
 RUN THIS SCRIPT AS ADMINISTRATOR.
 
 PUT YOUR IP ADDRESS AND THE DESIRED PORT IN THE FILE BEFORE RUNNING IT
-
-HAPPY HACKING🫡
